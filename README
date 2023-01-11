@@ -14,16 +14,16 @@ This is a fork of github.com/BurntSushi/xgb
 
 Quick Usage
 ===========
-go get github.com/jezek/xgb
-go run go/path/src/github.com/jezek/xgb/examples/create-window/main.go
+go get github.com/ezdev128/xgb
+go run go/path/src/github.com/ezdev128/xgb/examples/create-window/main.go
 
-jezek's Fork
+ezdev128's Fork
 ============
-I've forked the XGB repository from BurntSushi's github to apply some
+I've forked the XGB repository from jezek's github to apply some
 patches which caused panics and memory leaks upon close and tests were added,
 to test multiple server close scenarios.
 
-BurntSushi's Fork
+jezek's Fork
 =================
 I've forked the XGB repository from Google Code due to inactivty upstream.
 
